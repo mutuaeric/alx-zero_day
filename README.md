@@ -1,1 +1,1 @@
-my first readme
+ALX is get me prepared
